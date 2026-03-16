@@ -29,6 +29,20 @@ const TimeWatcher = {
 
 ---
 
+## 🌐 Socials
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9a2EmGkpwd)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@timewatcher27)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/demiurge_w0rk)
+[![YouTube](https://img.shields.io/badge/YouTube_1-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@watcher_times)
+[![YouTube](https://img.shields.io/badge/YouTube_2-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@demiurge_w0rk)
+
+</div>
+
+---
+
 ## 🛠️ Stack
 
 <div align="center">
@@ -46,12 +60,12 @@ const TimeWatcher = {
 ## 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TimeWatcher&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimeWatcher&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xtogreed-afk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtogreed-afk&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TimeWatcher&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xtogreed-afk&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" />
 </div>
 
 ---
